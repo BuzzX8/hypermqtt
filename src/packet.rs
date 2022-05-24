@@ -15,3 +15,7 @@ pub enum Packet {
     Disconnect,
     Auth
 }
+
+impl Packet {
+    
+}
